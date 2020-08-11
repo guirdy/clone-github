@@ -29,12 +29,12 @@ export default createGlobalStyle`
     --logo: #fff;
     --header: #24292e;
     --username: #666;
-    --search: rgba(255; 255; 255; 0.13);
-    --search-placeholder: hsla(0;0%;100%;.75);
+    --search: rgba(255, 255, 255, 0.13);
+    --search-placeholder: hsla(0,0%,100%,.75);
     --icon: #6a737d;
     --link: #0366d6;
     --border: #e1e4e8;
-    --ticker: rgba(209;213;218;.5);
+    --ticker: rgba(209,213,218,.5);
     
     --calendar-scale-0: #ebedf0;
     --calendar-scale-1: #9BE9A8;
